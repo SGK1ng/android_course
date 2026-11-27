@@ -1,0 +1,57 @@
+Android Basics with Compose course samples
+Copyright (C) 2023 The Android Open Source Project
+Licensed under the Apache License, Version 2.0 (see LICENSE).
+
+The following source files were changed to remove repeated license headers.
+This notice preserves their original copyright attribution:
+
+app/src/main/java/com/example/work6/MainActivity.kt
+app/src/main/java/com/example/work6/data/Datasource.kt
+app/src/main/java/com/example/work6/model/Affirmation.kt
+app/src/main/java/com/example/work6/ui/theme/Color.kt
+app/src/main/java/com/example/work6/ui/theme/Theme.kt
+app/src/main/res/drawable/ic_launcher_background.xml
+app/src/main/res/drawable/ic_launcher_foreground.xml
+app/src/main/res/values/strings.xml
+app/src/main/res/values/themes.xml
+courses/src/main/java/com/example/courses/MainActivity.kt
+courses/src/main/java/com/example/courses/data/DataSource.kt
+courses/src/main/java/com/example/courses/model/Topic.kt
+courses/src/main/java/com/example/courses/ui/theme/Color.kt
+courses/src/main/java/com/example/courses/ui/theme/Theme.kt
+courses/src/main/java/com/example/courses/ui/theme/Type.kt
+courses/src/main/res/drawable/ic_grain.xml
+courses/src/main/res/drawable/ic_launcher_background.xml
+courses/src/main/res/values/colors.xml
+courses/src/main/res/values/dimens.xml
+courses/src/main/res/values/strings.xml
+courses/src/main/res/values/themes.xml
+superheroes/src/main/java/com/example/superheroes/HeroesScreen.kt
+superheroes/src/main/java/com/example/superheroes/MainActivity.kt
+superheroes/src/main/java/com/example/superheroes/model/Hero.kt
+superheroes/src/main/java/com/example/superheroes/model/HeroesDataSource.kt
+superheroes/src/main/java/com/example/superheroes/ui/theme/Color.kt
+superheroes/src/main/java/com/example/superheroes/ui/theme/Shape.kt
+superheroes/src/main/java/com/example/superheroes/ui/theme/Theme.kt
+superheroes/src/main/java/com/example/superheroes/ui/theme/Type.kt
+superheroes/src/main/res/drawable/android_superhero1.xml
+superheroes/src/main/res/drawable/android_superhero2.xml
+superheroes/src/main/res/drawable/android_superhero3.xml
+superheroes/src/main/res/drawable/android_superhero4.xml
+superheroes/src/main/res/drawable/android_superhero5.xml
+superheroes/src/main/res/drawable/android_superhero6.xml
+superheroes/src/main/res/drawable/ic_launcher_background.xml
+superheroes/src/main/res/drawable/ic_launcher_foreground.xml
+superheroes/src/main/res/values/strings.xml
+superheroes/src/main/res/values/themes.xml
+woof/src/main/java/com/example/woof/MainActivity.kt
+woof/src/main/java/com/example/woof/data/Dog.kt
+woof/src/main/java/com/example/woof/ui/theme/Color.kt
+woof/src/main/java/com/example/woof/ui/theme/Shape.kt
+woof/src/main/java/com/example/woof/ui/theme/Theme.kt
+woof/src/main/java/com/example/woof/ui/theme/Type.kt
+woof/src/main/res/drawable/ic_woof_logo.xml
+woof/src/main/res/values/colors.xml
+woof/src/main/res/values/dimens.xml
+woof/src/main/res/values/strings.xml
+woof/src/main/res/values/themes.xml
